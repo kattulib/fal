@@ -5,7 +5,7 @@ ThisBuild / version := "1.0"
 ThisBuild / name := "FAL"
 ThisBuild / organization := "com.csgn"
 ThisBuild / description := "Functional mAtching Library"
-ThisBuild / licenses := List(("Apache 2.0", url("https://opensource.org/license/apache-2-0")))
+ThisBuild / licenses := List(("MIT", url("https://opensource.org/license/mit")))
 ThisBuild / testFrameworks += new TestFramework("munit.Framework")
 
 val scala3Version = "3.4.2"
