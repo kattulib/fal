@@ -6,4 +6,4 @@
   </a>
 </p>
 
-It is a powerful Scala library that brings the elegance and robustness of functional programming to regular expressions. Designed for developers who value immutability, composability, and expressive code, FAL offers a clean and intuitive API for pattern matching and text manipulation.
+It is a minimal Scala library that brings the elegance and robustness of functional programming to regular expressions.
